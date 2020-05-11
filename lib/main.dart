@@ -15,12 +15,12 @@ class MiCardApp extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   CircleAvatar(
-                    backgroundImage: AssetImage('images/affanasiya.jpg'),
+                    backgroundImage: AssetImage('images/art.jpg'),
                     radius: 60.0,
                   ),
                   SizedBox(height: 30),
                   Text(
-                    'Affan Asiya',
+                    'Sampurno Joyodiyono',
                     style: TextStyle(
                       fontSize: 40,
                       color: Colors.white,
@@ -68,7 +68,7 @@ class MiCardApp extends StatelessWidget {
                         Icons.email,
                         color: Colors.teal,
                       ),
-                      title: Text('affanasiya@email.com',
+                      title: Text('hihih@email.com',
                         style: TextStyle(
                           fontFamily: 'Source Sans Pro',
                           fontWeight: FontWeight.w300,
